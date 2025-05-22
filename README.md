@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<li> I'm studying in KyungHee University 
+<li> D.com member <sub>2025. 03. ~ </sub>
